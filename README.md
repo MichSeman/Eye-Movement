@@ -1,7 +1,7 @@
 # Eye-Movement
 Eye Movement Challenge
 
-## Implementations 
+## Implementation
   1.	Fork a Copy of this project to your Github page
 	2.	Clone a copy from your Github page to your local work environment
 	3.	Open the index file using a browser
